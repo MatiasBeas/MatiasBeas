@@ -1,138 +1,66 @@
-<div align="center">
+# ¡Hola! 👋 Soy Matias Beas
 
-# 👨‍💻 Matías Beas
-
-### Estudiante de Ingeniería en Informática | Desarrollador Backend
-
-</div>
-
----
-
-# 👋 Sobre mí
-
-Hola, soy **Matías Beas**, tengo **19 años** y actualmente estudio **Ingeniería en Informática en Duoc UC**.
-
-Me apasiona el desarrollo de software, especialmente el área backend, donde disfruto construyendo APIs, trabajando con bases de datos y desarrollando soluciones escalables utilizando buenas prácticas de programación.
-
-Actualmente me encuentro fortaleciendo mis conocimientos en:
-
-* ☕ Desarrollo Backend con Java
-* 🌱 Spring Boot
-* 🐍 Python
-* 🗄️ SQL y Bases de Datos
-* 🐳 Docker
-* 🔗 APIs REST
-* 🧪 Testing de Software
-* 🎨 Diseño y Prototipado UX/UI
-
-Mi objetivo es seguir creciendo profesionalmente y participar en proyectos que generen un impacto real a través de la tecnología.
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudiante-Ingenier%C3%ADa%20en%20Inform%C3%A1tica-blue?style=for-the-badge&logo=education" alt="Estudiante Informática">
+  <img src="https://img.shields.io/badge/Certificado-PCEP%20Python-darkgreen?style=for-the-badge&logo=python&logoColor=white" alt="PCEP Certified">
+</p>
 
 ---
 
-<div align="center">
+### 🚀 Sobre Mí
 
-<img src="https://i.pinimg.com/originals/3f/1b/f2/3f1bf22e3ed9ac8e703abd9e36a6300e.gif" width="350"/>
-
-</div>
+¡Hola! Mi nombre es **Matias Beas**, tengo 19 años y actualmente estoy cursando la carrera de **Ingeniería en Informática** en **Duoc UC**. Me apasiona el desarrollo de software, la resolución de problemas lógicos y la creación de experiencias digitales interactivas. Siempre estoy buscando expandir mis conocimientos, optimizar mis habilidades de programación y aprender nuevas tecnologías para construir soluciones robustas y eficientes.
 
 ---
 
-# ⚡ Lenguajes y Tecnologías
+### 🛠️ Tecnologías y Lenguajes
 
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
-
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=FFD43B)
-
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge\&logo=springboot\&logoColor=6DB33F)
-
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=F05032)
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
+</p>
 
 ---
 
-# 🏆 Certificaciones
+### 📜 Certificaciones Oficiales
 
-### 🐍 Python Essentials 1
-
-✅ Certificación obtenida en junio de 2025.
-
-Durante esta certificación desarrollé conocimientos en:
-
-* Fundamentos de programación
-* Variables y tipos de datos
-* Condicionales y ciclos
-* Funciones
-* Resolución de problemas
-* Pensamiento lógico
-
-🎯 Certificado obtenido satisfactoriamente.
+#### **PCEP™ – Certified Entry-Level Python Programmer**
+* **Institución:** Python Institute (General-Purpose Programming Track)
+* **Fecha de Certificación:** 16 de Junio, 2025
+* **ID de Certificación:** `Wunh.5nTe.kudk`
+* **Verificación oficial:** [verify.openedg.org](https://verify.openedg.org)
+* **Credencial:**
+  
+  <p align="center">
+    <img src="https://i.ibb.co/vxsYg7Z/image-800fae.png" alt="PCEP Certification" width="75%" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
+  </p>
 
 ---
 
-# 🚀 Proyectos Destacados
+### 💻 Proyectos Destacados
 
-### ☕ Desarrollo Backend con Spring Boot
+* **☕ Ecosistemas Backend Robustos con Java & Spring Boot**
+  * *Desarrollo de APIs REST robustas, seguras y escalables utilizando el ecosistema de Spring, implementando inyección de dependencias, persistencia de datos y arquitecturas limpias para resolver problemas lógicos de negocio reales.*
 
-Desarrollo de aplicaciones empresariales utilizando Spring Boot, arquitectura por capas, APIs REST, documentación con Swagger, bases de datos relacionales y pruebas unitarias.
-
-### 🌐 Arquitecturas Basadas en Microservicios
-
-Implementación de soluciones distribuidas utilizando comunicación entre servicios, Eureka Server, WebClient y buenas prácticas de diseño para aplicaciones escalables.
-
-### 🎨 Diseño de Experiencias Digitales
-
-Creación de prototipos interactivos enfocados en experiencia de usuario, accesibilidad y diseño moderno utilizando metodologías UX/UI.
-
-### 🗄️ Ingeniería de Bases de Datos
-
-Modelado de datos, consultas SQL avanzadas, procedimientos almacenados y optimización de bases de datos relacionales.
+* **🎨 Prototipado Interactivo & Diseño de Experiencias (UI/UX)**
+  * *Transformación de requerimientos técnicos y wireframes complejos en interfaces visuales dinámicas y prototipos completamente funcionales, optimizando el flujo del usuario y priorizando la usabilidad en aplicaciones web y móviles.*
 
 ---
 
-# 📊 Estadísticas GitHub
+### 📊 Mis Estadísticas de GitHub
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matiaslol&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub de Matias" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiaslol&layout=compact&theme=tokyonight" alt="Lenguajes más usados por Matias" width="48%">
+</p>
 
 ---
 
-# 🔥 Actividad Reciente
+### ✉️ Contacto & Redes
 
-<div align="center">
+¿Tienes algún proyecto en mente o te gustaría colaborar en algo juntos? ¡No dudes en escribirme!
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📫 Contacto
-
-📧 Correo: beasmatias01@gmail.com
-
-💻 GitHub: https://github.com/MatiasBeas
-
-
----
-
-<div align="center">
-
-<img src="https://turbologo.com/articles/wp-content/uploads/2019/09/dark-knight-logo-2012.png.webp" width="180"/>
-
-### 🦇 Gracias por visitar mi perfil
-
-*"No es quién soy por dentro, sino lo que hago lo que me define."*
-
-</div>
+* **📥 Correo Electrónico:** [matiaslol@gmail.com](mailto:matiaslol@gmail.com)
+* **💼 LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com)

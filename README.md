@@ -11,6 +11,11 @@
 
 ¡Hola! Mi nombre es **Matias Beas**, tengo 19 años y actualmente estoy cursando la carrera de **Ingeniería en Informática** en **Duoc UC**. Me apasiona el desarrollo de software, la resolución de problemas lógicos y la creación de experiencias digitales interactivas. Siempre estoy buscando expandir mis conocimientos, optimizar mis habilidades de programación y aprender nuevas tecnologías para construir soluciones robustas y eficientes.
 
+*Coloca tu GIF aquí abajo:*
+<p align="center">
+  <img src="TU_GIF_URL_AQUI" alt="Coding GIF" width="60%">
+</p>
+
 ---
 
 ### 🛠️ Tecnologías y Lenguajes
@@ -34,7 +39,8 @@
 * **Credencial:**
   
   <p align="center">
-    <img src="https://i.ibb.co/vxsYg7Z/image-800fae.png" alt="PCEP Certification" width="75%" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
+    <!-- RECOMENDACIÓN: Sube tu imagen "image_800fae.png" a la carpeta principal de tu repositorio de GitHub y reemplaza el nombre aquí abajo -->
+    <img src="image_800fae.png" alt="PCEP Certification" width="75%" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
   </p>
 
 ---
@@ -52,6 +58,7 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
+  <!-- ⚠️ IMPORTANTE: Si tu nombre de usuario de GitHub NO es "matiaslol", cambia la palabra "matiaslol" por tu usuario real en las dos líneas de abajo para que no salgan en cero o vacías -->
   <img src="https://github-readme-stats.vercel.app/api?username=matiaslol&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub de Matias" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiaslol&layout=compact&theme=tokyonight" alt="Lenguajes más usados por Matias" width="48%">
 </p>

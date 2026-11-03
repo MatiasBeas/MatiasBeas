@@ -72,8 +72,8 @@
 ## <p align="center">📊 Mis Estadísticas de GitHub 📈</p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub de Matias" width="48%">
-  <img src="https://vercel.app" alt="Lenguajes más usados por Matias" width="48%">
+  <img src="https://vercel.app" alt="Estadísticas de GitHub" width="48%">
+  <img src="https://vercel.app" alt="Lenguajes más usados" width="48%">
 </p>
 
 ---
@@ -91,3 +91,4 @@
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn">
   </a>
+</p>

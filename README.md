@@ -72,8 +72,8 @@
 ## <p align="center">📊 Mis Estadísticas de GitHub 📈</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matiaslol&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub de Matias" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiaslol&layout=compact&theme=tokyonight" alt="Lenguajes más usados por Matias" width="48%">
+  <img src="https://vercel.app" alt="Estadísticas de GitHub de Matias" width="48%">
+  <img src="https://vercel.app" alt="Lenguajes más usados por Matias" width="48%">
 </p>
 
 ---
@@ -85,10 +85,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:matiaslol@gmail.com">
+  <a href="mailto:ma.beas@duocuc.cl" target="_blank">
     <img src="https://shields.io" alt="Gmail">
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn">
   </a>
 </p>

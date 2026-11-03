@@ -32,7 +32,7 @@
 * **🏛️ Institución:** Python Institute (General-Purpose Programming Track)
 * **📅 Fecha de Certificación:** 16 de Junio, 2025
 * **🔑 ID de Certificación:** `Wunh.5nTe.kudk`
-* **🌐 Verificación oficial:** <p width="180" height="auto"> <img src="https://github.com/user-attachments/assets/d6499570-c03f-473e-82c8-00b05d3990ba" width="350" height="auto" alt="Python Essentials 1"></p>" 
+* **🌐 Verificación oficial:** <p width="20" height="auto"> <img src="https://github.com/user-attachments/assets/d6499570-c03f-473e-82c8-00b05d3990ba" width="350" height="auto" alt="Python Essentials 1"></p>" 
 
 
 <p align="center">

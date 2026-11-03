@@ -86,9 +86,10 @@
 
 <p align="center">
   <a href="mailto:ma.beas@duocuc.cl" target="_blank">
-    <img src="https://shields.io" alt="Gmail">
+    <img src="https://githubusercontent.com" alt="Gmail" width="40">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
+    <img src="https://githubusercontent.com" alt="LinkedIn" width="40">
   </a>
 </p>

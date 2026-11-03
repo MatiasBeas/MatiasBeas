@@ -91,4 +91,3 @@
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn">
   </a>
-</p>

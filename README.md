@@ -36,12 +36,12 @@
 
 * **Institución:** Python Institute (General-Purpose Programming Track)
 * **Fecha de Certificación:** 16 de Junio, 2025
-* **ID de Certificación:** Blub.5nTe.Xusk
+* **ID de Certificación:** b9f8329e-8d32-4c90-a576-aa132e86b6ee
 
 <br>
 
 <p align="center">
-  <a href="URL_DE_TU_LINK_DE_VERIFICACION" target="_blank">
+  <a href="https://www.credly.com/badges/b9f8329e-8d32-4c90-a576-aa132e86b6ee/public_url" target="_blank">
     <img src="https://github.com/user-attachments/assets/33ad8f02-2e47-46e0-8161-4f810dd47864" width="120" alt="Python Essentials 1" style="border-radius: 8px;">
   </a>
 </p>

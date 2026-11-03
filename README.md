@@ -32,7 +32,19 @@
 * **🏛️ Institución:** Python Institute (General-Purpose Programming Track)
 * **📅 Fecha de Certificación:** 16 de Junio, 2025
 * **🔑 ID de Certificación:** `Wunh.5nTe.kudk`
-* **🌐 Verificación oficial:** <p width="20" height="auto"> <img src="https://github.com/user-attachments/assets/d6499570-c03f-473e-82c8-00b05d3990ba" width="350" height="auto" alt="Python Essentials 1"></p>" 
+### PCEP™ – Certified Entry-Level Python Programmer 🩺
+
+* **Institución:** Python Institute (General-Purpose Programming Track)
+* **Fecha de Certificación:** 16 de Junio, 2025
+* **ID de Certificación:** Blub.5nTe.Xusk
+
+<br>
+
+<p align="center">
+  <a href="URL_DE_TU_LINK_DE_VERIFICACION" target="_blank">
+    <img src="https://github.com/user-attachments/assets/33ad8f02-2e47-46e0-8161-4f810dd47864" width="120" alt="Python Essentials 1" style="border-radius: 8px;">
+  </a>
+</p>
 
 
 <p align="center">

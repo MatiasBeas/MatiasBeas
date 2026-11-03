@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/CvBvbOJz0sQAAAAm/toemer-you-vs-homer.webp" alt="Banner Principal" />
+  <img src="https://media.tenor.com/VOOn2e5ovn8AAAAm/cat-cat-meme.webp" alt="Banner Principal" />
 </p>
 
 <p align="center">

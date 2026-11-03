@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://vercel.app" alt="Banner Principal" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajNnNXJ0MnA0N3Nxemx6YjJodGF1aWJ0eWRuaW8yNTlwNDV0bHN4aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s2pr9CVOvU4NMBsnYf/giphy.webp" alt="Banner Principal" />
 </p>
 
 <p align="center">

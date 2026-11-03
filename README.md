@@ -85,11 +85,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ma.beas@duocuc.cl" target="_blank">
-    <img src="https://githubusercontent.com" alt="Gmail" width="40">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://githubusercontent.com" alt="LinkedIn" width="40">
-  </a>
+  <a href="mailto:ma.beas@duocuc.cl" target="_blank">📬 <b>Enviar Correo (ma.beas@duocuc.cl)</b></a> 
+  &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com" target="_blank">💼 <b>Conectar en LinkedIn</b></a>
 </p>

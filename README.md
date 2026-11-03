@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/NkREwRhR13cAAAAM/handshake-cat-meme.gif" alt="Banner Principal" />
+  <img src="https://media.tenor.com/hkppMsxvqF4AAAAm/happy.webp" alt="Banner Principal" />
 </p>
 
 <p align="center">

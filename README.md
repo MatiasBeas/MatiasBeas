@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjFjcmZ0YThjaDR6c3p1YmFjY3l1cHR5MWFkYjBybnd1eGx0dDl5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QMHoU66sBXqqLqYvGO/200.webp" alt="Banner Principal" />
+  <img src="https://media.tenor.com/NkREwRhR13cAAAAM/handshake-cat-meme.gif" alt="Banner Principal" />
 </p>
 
 <p align="center">

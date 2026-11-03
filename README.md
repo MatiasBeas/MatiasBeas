@@ -69,23 +69,4 @@
 
 ---
 
-## <p align="center">📊 Mis Estadísticas de GitHub 📈</p>
 
-<p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" width="48%">
-  <img src="https://vercel.app" alt="Lenguajes más usados" width="48%">
-</p>
-
----
-
-## <p align="center">✉️ Contacto & Redes 🤝</p>
-
-<p align="center">
-¿Tienes algún proyecto en mente o te gustaría colaborar en algo juntos? ¡No dudes en escribirme! 🚀
-</p>
-
-<p align="center">
-  <a href="mailto:ma.beas@duocuc.cl" target="_blank">📬 <b>Enviar Correo (ma.beas@duocuc.cl)</b></a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com" target="_blank">💼 <b>Conectar en LinkedIn</b></a>
-</p>

@@ -32,7 +32,7 @@
 * **🏛️ Institución:** Python Institute (General-Purpose Programming Track)
 * **📅 Fecha de Certificación:** 16 de Junio, 2025
 * **🔑 ID de Certificación:** `Wunh.5nTe.kudk`
-* **🌐 Verificación oficial:** [verify.openedg.org](https://verify.openedg.org)
+* **🌐 Verificación oficial:** [verify.openedg.org](https://images.credly.com/size/340x340/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png)
 
 <p align="center">
   <img src="./image_800fae.png" alt="PCEP Certification" width="65%" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">

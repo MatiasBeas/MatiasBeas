@@ -48,7 +48,7 @@
 
 
 <p align="center">
-  <img src="[./image_800fae.png](https://github.com/user-attachments/assets/bb46a5b3-e274-4e31-8994-5dba2afec1e7)" alt="PCEP Certification" width="65%" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
+  <img src="https://github.com/user-attachments/assets/bb46a5b3-e274-4e31-8994-5dba2afec1e7" alt="PCEP Certification" width="65%" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);">
 </p>
 
 
